@@ -1,2 +1,3 @@
-#Lua Teixeira de Andrade
-C, Python, Lua, Zig
+# Lua Teixeira de Andrade
+- Estudante de Engenharia da Computação
+- C, Python, Lua, Zig
