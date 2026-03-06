@@ -1,3 +1,3 @@
 # Lua Teixeira de Andrade
 - Estudante de Engenharia da Computação
-- C, Python, Lua, Go
+- C, Python, Lua, Go, Clojure
