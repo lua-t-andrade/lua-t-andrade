@@ -1,3 +1,6 @@
-# Lua Teixeira de Andrade
+# Lua T. de Andrade
 - Estudante de Engenharia da Computação
-- C, Python, Lua, Go, Clojure
+- Python with numpy, matplotlib ;
+- Clojure with compojure, ring ;
+- Go
+- C
