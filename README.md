@@ -2,5 +2,6 @@
 - Estudante de Engenharia da Computação
 - Python with numpy, matplotlib ;
 - Clojure with compojure, ring ;
-- Go
-- C
+- Learning Rust ;
+- Go ;
+- C.
