@@ -1,5 +1,6 @@
 # Lua T. de Andrade
-- Estudante de Engenharia da Computação
+## Computer Engineering student
+### Languages:
 - Python with numpy, matplotlib ;
 - Clojure with compojure, ring ;
 - Learning Rust ;
