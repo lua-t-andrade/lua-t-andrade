@@ -4,5 +4,6 @@
 - Python with numpy, matplotlib ;
 - Clojure with compojure, ring ;
 - Learning Rust ;
+- Learning Scala ;
 - Go ;
 - C.
