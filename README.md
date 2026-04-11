@@ -15,5 +15,6 @@
 - Learning AVR assembly (Atmega328P) ;
 - Learning Rust ;
 - Learning Scala ;
+- Bash ;
 - Go ;
 - C.
