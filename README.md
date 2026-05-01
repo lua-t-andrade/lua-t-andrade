@@ -4,8 +4,8 @@
 ### Microcontrolers:
 - Atmega328P ;
 
-### System knowledge:
-- Linux knowledge (Arch Linux, Debian, gnutils) ;
+### System administration:
+- Linux knowledge (Arch Linux, Debian) ;
 - Basic BSD knowledge (FreeBSD) ;
 - 9front (silly addition).
 
